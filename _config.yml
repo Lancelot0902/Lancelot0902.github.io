@@ -6,30 +6,30 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy
+title: Lancelot
 
-description: 'A text-based Jekyll theme.'
+description: '记录学习生活'
 
 # Replace with your domain, e.g. "https://username.github.io"
-url: 'https://www.example.com'
+url: 'https://Lancelot0902.github.io'
 
-author: your_full_name                  # change to your full name
+author: Lancelot                        # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # Support network resources.
+avatar: /assets/img/sample/picture.png  # Support network resources.
 
 github:
-  username: github_username             # change to your github username
+  username: Lancelot0902                # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Lancelot                    # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Lancelot                        # it will shows as the copyright owner in Footer
+  email: xinshengdou674@gmail.com       # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/Lancelot      # change to your twitter homepage
+    - https://github.com/Lancelot0902   # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
