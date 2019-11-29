@@ -1,8 +1,10 @@
 ---
 title: computer network chapter 1:overview
 date: 2019-11-29 10:30:00 +0800
-categories: [computer network,chapter 1]
+categories: [computer network, chapter 1]
 tags: [computer network overview]
+seo:
+  date_modified: 2019-11-29 18:39:44 +0800
 ---
 
 信息时代的三大网络 : 电信网络、有线电视网络、计算机网络
