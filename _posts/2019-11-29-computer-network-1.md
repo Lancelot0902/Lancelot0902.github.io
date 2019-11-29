@@ -1,7 +1,7 @@
 ---
-title: computer network charpter 1 : overview
+title: computer network chapter 1:overview
 date: 2019-11-29 10:30:00 +0800
-categories: [computer network,charpter 1]
+categories: [computer network,chapter 1]
 tags: [computer network overview]
 ---
 
