@@ -107,3 +107,9 @@ OSI的七层协议      TCP/IP的四层协议     五层协议
 每一层都有不同的分工，当两个不同主机进程在通信时，数据流向如下图
 
 ![](https://img-blog.csdnimg.cn/20191129182339701.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhbmNlbG90MDkwMg==,size_16,color_FFFFFF,t_70)
+
+从一般概念讲，将网络互连起来需要一些中间设备：
+* 物理层使用转发器
+* 数据链路层使用网桥或桥接器
+* 网络层使用路由器
+* 网络层以上使用网关
