@@ -11,14 +11,14 @@ tags: [memory allocation]
 int a = 1;
 cout << &a;
 
-<<<< 0x73fe1c
+>>> 0x73fe1c
 ```
 代表了在内存中找出一块内存来分给变量a，这块内存的值为1，再执行
 ```
 a = 2;
 cout << &a;
 
-<<<< 0x73fe1c
+>>> 0x73fe1c
 ```
 可以看出内存地址没有变化，也就是说变量a和这块内存绑定了，改变a的值只是改变这块内存的值
 
@@ -27,12 +27,12 @@ cout << &a;
 a = 1
 print(id(a))
 
-<<<< 140724140667136
+>>> 140724140667136
 
 a = 2
 print(id(a))
 
-<<<< 140724140667168
+>>> 140724140667168
 ```
 发现两次变量a的地址不一样了，这是为什么呢？
 
@@ -40,4 +40,4 @@ print(id(a))
 
 ![](https://img-blog.csdnimg.cn/20191202220917450.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhbmNlbG90MDkwMg==,size_16,color_FFFFFF,t_70)
 
-变量只是一个标签，本身并不具有任何信息，而类型信息存储在对象中，这和c/c++右很大的出入
+变量只是一个标签，本身并不具有任何信息，而类型信息存储在对象中，这和c/c++有很大的出入
