@@ -3,6 +3,8 @@ title: network layer
 date: 2019-12-3 8:30:00 +0800
 categories: [computer network, chapter 4]
 tags: [network layer]
+seo:
+  date_modified: 2019-12-05 22:24:33 +0800
 ---
 ### 网络层概述
 作用 ：为运输层服务，提供最基本的端到端的服务
