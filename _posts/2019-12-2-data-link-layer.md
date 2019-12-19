@@ -3,6 +3,8 @@ title: data link layer
 date: 2019-12-2 12:30:00 +0800
 categories: [computer network, chapter 3]
 tags: [data link layer]
+seo:
+  date_modified: 2019-12-19 18:36:01 +0800
 ---
 ### 数据链路层概述
 数据链路层作用：为网络层提供服务，将源机器的网络层数据可靠的运输到目标机器的网络层
