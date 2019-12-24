@@ -4,7 +4,7 @@ date: 2019-12-2 19:30:00 +0800
 categories: [python philosophy, memory allocation]
 tags: [memory allocation, python]
 seo:
-  date_modified: 2019-12-03 19:24:27 +0800
+  date_modified: 2019-12-24 21:02:59 +0800
 ---
 讲一讲在python中对变量的内存分配
 
