@@ -2,7 +2,7 @@
 title: python memory allocation
 date: 2019-12-2 19:30:00 +0800
 categories: [python philosophy, memory allocation]
-tags: [memory allocation]
+tags: [memory allocation, python]
 seo:
   date_modified: 2019-12-03 19:24:27 +0800
 ---

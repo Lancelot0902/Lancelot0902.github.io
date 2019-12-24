@@ -2,7 +2,7 @@
 title: python 2D array
 date: 2019-12-4 16:30:00 +0800
 categories: [python philosophy, 2D array]
-tags: [2D array]
+tags: [2D array, python]
 ---
 
 最近在写python程序时遇到了一个问题，困扰了好几天
