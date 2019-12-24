@@ -31,7 +31,7 @@ tags: [computer science, memory]
 
 ### 门锁
 
-在锁存器的基础上在加上一些功能就变成了更容易使用的门锁，只有允许写入先为1时才允许写入数据
+在锁存器的基础上在加上一些功能就变成了更容易使用的门锁，只有允许写入先线为1时才允许写入数据
 
 ![](https://img-blog.csdnimg.cn/20191221100442888.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhbmNlbG90MDkwMg==,size_16,color_FFFFFF,t_70)
 
