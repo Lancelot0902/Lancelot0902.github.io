@@ -4,7 +4,7 @@ date: 2020-1-31 10:30:00 +0800
 categories: [Math, Matrix]
 tags: [Math, Matrix]
 seo:
-  date_modified: 2020-01-31 11:10:14 +0800
+  date_modified: 2020-01-31 11:14:37 +0800
 ---
 
 ### Gauss Jordan法求逆矩阵
