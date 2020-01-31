@@ -11,7 +11,7 @@ Gauss Jordan消元法是高斯消元法另一个版本，与高斯消元不同�
 
 ### Gauss Jordan法介绍
 
-当要求矩阵A的逆时,在A的右边放一个单位矩阵，我们称[A|I]为增广矩阵。对增广矩阵实施行初等变换，即左乘一个矩阵P，如果使得P[A|I]=[PA|P]=[I|P]，则P就是A<sup>-1
+当要求矩阵A的逆时,在A的右边放一个单位矩阵I，[A|I]就是增广矩阵，对A加减消元时，同样的步骤也作用于I上，当将A变成单位矩阵后,I就变成了P（A的逆），即[I|P]
 
 G-J消元法就是通过一系列的初等行变换将[A|I]变成[I|P]的形式
 
@@ -35,3 +35,11 @@ G-J消元法就是通过一系列的初等行变换将[A|I]变成[I|P]的形式
 选取列主元的方式是在第i次循环迭代中，从第i列中选主元，同样第i列中第i行之前的元素不在候选的范围内
 
 假如矩阵是n阶矩阵，那么在每一次循环中对矩阵中的每一个元素都要处理，所以时间复杂度是n<sup>3
+
+参考：
+
+* [Gauss-Jordan法求矩阵的逆](https://www.cnblogs.com/zhangchaoyang/articles/5471608.html)
+
+* [选主元的Gauss-Jordan](https://www.cnblogs.com/secret114/p/4204316.html)
+
+* [Gauss-Jordan法的理解](https://www.cnblogs.com/dclicker/p/9876278.html)
