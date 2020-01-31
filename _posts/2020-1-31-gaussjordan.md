@@ -3,6 +3,8 @@ title: Gauss Jordan（1）
 date: 2020-1-31 10:30:00 +0800
 categories: [Math, Matrix]
 tags: [Math, Matrix]
+seo:
+  date_modified: 2020-01-31 11:05:10 +0800
 ---
 
 ### Gauss Jordan法求逆矩阵
