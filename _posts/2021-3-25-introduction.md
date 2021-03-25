@@ -23,7 +23,7 @@ seo:
 
   In daily life,i always read some books and do exercises with my friends,which makes me confident and healthy.
 
-  By during undergraduate study,i found myself a great interest in computer science,also found many shortcomings,so i am very eager to continue to learn to strength my expertise.So i chose to major in computer science and technology.
+  By during undergraduate study,i found myself a great interest in computer science,also found many shortcomings,so i am very eager to continue to strength my expertise.So i chose to major in computer science and technology in our school.
 
   I will be very honored if i have chance to learn in our school.
 
