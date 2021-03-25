@@ -17,7 +17,7 @@ tags: [Essays]
 
   Good morning,dear professors.It's a great honor for me to sit here.
 
-  First let me introduce myself.My name is DouXinsheng,22 years old.I come from Xingtai,a beautiful city of Hebei Province.I graduate from Hebei agricultural university in July,majoring in computer science and technology.During those 4 years' study,i worked hard and i was always in various activities.I have got the scholarship continuously for two years and won some competitions' prizes,such as Blue Bridge Cup and Challenge Cup.
+  First let me introduce myself.My name is DouXinsheng,22 years old.I come from Xingtai,a beautiful city of Hebei Province.I graduate from Hebei agricultural university in July,majoring in computer science and technology.During those 4 years' study,i worked hard and i was always in various activities.I have got the scholarship continuously for two years and won some competitions' prizes,such as the Blue Bridge Cup and the Challenge Cup.
 
   In daily life,i always read some books and do exercises with my friends,which makes me confident and healthy.
 
